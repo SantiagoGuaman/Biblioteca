@@ -9,6 +9,5 @@ public class Main {
         VistaPrincipal vp = new VistaPrincipal();
         ControladorMenuPrincipal cp = new ControladorMenuPrincipal(vp);
         cp.iniciaControl();
-    }
-    
+    }  
 }
